@@ -1,1 +1,3 @@
 rootProject.name = 'composite2-all'
+
+includeBuild '../firstsubproject'
